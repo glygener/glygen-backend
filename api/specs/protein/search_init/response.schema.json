@@ -1,0 +1,57 @@
+{
+   "$id":"http://example.com/example.json",
+   "type":"object",
+   "properties":{
+      "glygan_mass":{
+         "$id":"/properties/protein_mass",
+         "type":"object",
+         "description":"This object provides the minimum and maximum native mass of protein in the database.",
+         "properties":{
+            "min":{
+               "$id":"/properties/protein_mass/properties/min",
+               "type":"number",
+               "description":"Smallest mass value of a protein in the repository.",
+               "default":0,
+               "examples":[
+                435.00
+               ]
+            },
+            "max":{
+               "$id":"/properties/protein_mass/properties/max",
+               "type":"integer",
+               "description":"Largest mass value of a protein_mass in the repository.",
+               "default":0,
+               "examples":[
+                3906488.00
+               ]
+            }
+         },
+         "required":[
+            "min",
+            "max"
+         ]
+      },
+      "organism":{
+         "$id":"/properties/organism",
+         "type":"array",
+         "description":"This field is set of organism (e.g. human) that a present in the databases. Each string should contain the scientific name and the the NCBI Taxonomy ID in parentheses.",
+         "items":{
+            "$id":"/properties/organism/items",
+            "type":"string",
+            "examples":[
+               "Homo sapiens (Taxonomy ID: 9606)",
+               "Mus musculus (Taxonomy ID: 10090)"
+            ]
+         }
+      },
+      "error_code":{
+         "$id":"/properties/error_code",
+         "type":"string",
+         "description":"If the operation fails an error code is send back instead of the other information.",
+         "default":"",
+         "examples":[
+            "ABV1234MN56BN"
+         ]
+      }
+   }
+}

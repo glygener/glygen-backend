@@ -1,0 +1,24 @@
+{
+   "query":{
+      "operation":"AND",
+      "query_type":"search_glycan",
+      "mass":{
+         "min":100,
+         "max":6900
+      },
+      "number_monosaccharides":{
+         "min":10,
+         "max":69
+      },
+      "glycan_type":"N-linked",
+      "glycan_subtype":"N-linked",
+      "tax_id":9606,
+      "uniprot_canonical_ac":"P01234",
+      "glycan_motif":"LewisX",
+      "glytoucan_ac":"AG56",
+      "enzyme":{
+         "id":"MGAT2",
+         "type":"gene"
+      }
+   }
+}

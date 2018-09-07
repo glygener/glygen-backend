@@ -1,0 +1,60 @@
+{
+    	"protein_id": "P04278-1", 
+   	"gene_name":"SHBG",
+	"protein_name_long":"Sex hormone-binding globulin",
+  	"protein_name_short":"SHBG",
+    	"organism":"Homo sapiens",
+        "taxonomy": 9606, 
+    	"proteinExistence": "Evidence at protein level",
+    	"dbReferences": [
+        	{
+            		"id": "X16349", 
+            		"url":""
+		}
+	],
+	"features": [
+        	{
+            		"category": "MOLECULE_PROCESSING",
+            		"begin": "1",
+            		"end": "29",
+            		"description": "",
+		}
+	],
+	"comments": [
+        	{
+			"type": "FUNCTION",
+			"value": "Functions as an androgen transport protein, but ..."
+        	}
+	],
+	"sequence": {
+        	"sequence": "MESRGPLATSRLLLLLLLLLLRHTRQGWALRPV..."
+        	"length": 402,
+        	"mass": 43779
+    	},
+    	"keywords": [
+		"3D-structure",
+            	"Alternative splicing",
+            	"Glycoprotein"
+	],
+	"glycosylation": [
+            {
+                "residue": "N",
+                "position": 118,
+                "glycan_id": "G58521VQ",
+                "evidence": [
+                    "PubMed12754519 ",
+                    "PubMed16335952 ",
+                    "PubMed19159218 ",
+                    "PubMed9425062 ",
+                    "PubMed9677337 /FTId=CAR_000140 "
+                ]
+            }
+        ]
+        "pathway": [
+            {
+                "resource": "reactome",
+                "id": "",
+                "name": ""
+            }
+        ]
+}
