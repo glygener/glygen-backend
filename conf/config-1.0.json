@@ -60,8 +60,8 @@
 			"fasta_all":"<project_data_dir>/generated/output/human_uniprot_all.fasta",	
 			"log_canonical":"<project_data_dir>/generated/output/human_uniprot_canonical.log",
 			"log_all":"<project_data_dir>/generated/output/human_uniprot_all.log",
-			"fasta_pep":"/data/external/ucsc/targets/Homo_sapiens.GRCh37.75.pep.all.fa",
-			"fasta_uniprot":"/data/external/uniprot/targets/human_uniprot_all.fasta"	
+			"fasta_pep":"<project_data_dir>/ucsc/targets/Homo_sapiens.GRCh37.75.pep.all.fa",
+			"fasta_uniprot":"<project_data_dir>/uniprot/targets/human_uniprot_all.fasta"	
                 }
 		,"mouse":{
 			"groupingfile":"<project_data_dir>/downloads/protein/UP000000589_10090_acc2groupid_2017_11.tsv",
@@ -69,7 +69,7 @@
 			"fasta_canonical":"<project_data_dir>/generated/output/mouse_uniprot_canonical.fasta",
                         "fasta_all":"<project_data_dir>/generated/output/mouse_uniprot_all.fasta",
                         "log_canonical":"<project_data_dir>/generated/output/mouse_uniprot_canonical.log",
-                        "log_all":"data/projects/glygen/generated/output/mouse_uniprot_all.log"
+                        "log_all":"<project_data_dir>/generated/output/mouse_uniprot_all.log"
 		}
 		,"glycandb":"<project_data_dir>/jsondb/glycandb.json"
 		,"datamodel":"<project_data_dir>/generated/protein/extraction/datamodel.csv"
