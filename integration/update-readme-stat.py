@@ -2,6 +2,7 @@ import os,sys
 import json
 import csv
 import glob
+import commands
 
 from optparse import OptionParser
 from SPARQLWrapper import SPARQLWrapper, JSON 
@@ -62,39 +63,60 @@ def main():
     data_frame = {}
 
     file_list = glob.glob("reviewed/%s_*_*.csv" % (species))
+    file_list += glob.glob("reviewed/%s_*_*.fasta" % (species))
+    file_list += glob.glob("reviewed/%s_*_*.gp" % (species))
+    file_list += glob.glob("reviewed/%s_*_*.aln" % (species))
+    file_list += glob.glob("reviewed/%s_*_*.png" % (species))
+    file_list += glob.glob("reviewed/%s_*_*.nt" % (species))
 
     for in_file in file_list:
-        file_name = os.path.basename(in_file)
+        file_name = ".".join(os.path.basename(in_file).split(".")[:-1])
+        file_ext = os.path.basename(in_file).split(".")[-1]
+
+
         prefix = "_".join(file_name.split(".")[0].split("_")[2:])
-        field_list = load_dataframe(data_frame, prefix, in_file, ",")
-        value_list = {}
-        main_id = field_list[0]
-        for canon in data_frame[prefix]:
-            for row_obj in data_frame[prefix][canon]:
-                if main_id not in value_list:
-                    value_list[main_id] = []
-                value_list[main_id].append(canon)
-                for field in field_list[1:]:
-                    for v in row_obj[field]:
-                        if field not in value_list:
-                            value_list[field] = []
-                        value_list[field].append(v)
-        stat_buffer = "\tStatistics:\n"
-        for field in field_list:
-            stat_buffer += "\t%10s : %s\n" % (len(sorted(set(value_list[field]))), field)
-        readme_file_one = "reviewed/%s" % (file_name[:-3]) + "readme.manual.txt"
-        readme_file_two = "reviewed/%s" % (file_name[:-3]) + "readme.txt"
+        stat_buffer = ""
+        if file_ext == "csv":
+            field_list = load_dataframe(data_frame, prefix, in_file, ",")
+            value_list = {}
+            main_id = field_list[0]
+            for canon in data_frame[prefix]:
+                for row_obj in data_frame[prefix][canon]:
+                    if main_id not in value_list:
+                        value_list[main_id] = []
+                    value_list[main_id].append(canon)
+                    for field in field_list[1:]:
+                        for v in row_obj[field]:
+                            if field not in value_list:
+                                value_list[field] = []
+                            value_list[field].append(v)
+            stat_buffer = "\tStatistics:\n"
+            for field in field_list:
+                stat_buffer += "\t%10s : %s\n" % (len(sorted(set(value_list[field]))), field)
+       
 
-        if os.path.exists(readme_file_one) == False:
-            continue
+        readme_file_one = "reviewed/%s" % (file_name) + ".readme.manual.txt"
+        readme_file_two = "intermediate/%s" % (file_name) + ".readme.txt"
+        readme_file_three = "reviewed/%s" % (file_name) + ".readme.txt"
 
-        readme_buffer = open(readme_file_one, "r").read()
-        readme_buffer += stat_buffer
+
+        manual_buffer = ""
+        if os.path.exists(readme_file_one) == True:
+            manual_buffer = open(readme_file_one, "r").read()
+        
         with open(readme_file_two, "w") as FW:
-            FW.write("%s\n" % (readme_buffer))
-        print file_name
+            FW.write("%s\n" % (manual_buffer))
+            FW.write("%s\n" % (stat_buffer))
 
-
+        cmd = "/usr/bin/md5sum %s" % (readme_file_two)
+        md5sum_one = commands.getoutput(cmd).strip().split(" ")[0]
+        cmd = "/usr/bin/md5sum %s" % (readme_file_three)
+        md5sum_two = commands.getoutput(cmd).strip().split(" ")[0]
+        if md5sum_one != md5sum_two:
+            cmd = "cp %s %s" % (readme_file_two, readme_file_three)
+            x = commands.getoutput(cmd)
+            print "updated ", file_name
+            
 
 
 

@@ -1,0 +1,24 @@
+*.pyc
+*/*.pyc
+*/*/*.pyc
+
+junk*
+*/junk*
+*/*/junk*
+
+jj*
+*/jj*
+*/*/jj*
+
+JJ*
+*/JJ*
+*/*/JJ*
+
+#File auto created by Mac OS
+.DS_Store
+
+TICKETS.txt
+
+archive
+
+*/logfile*

@@ -69,6 +69,7 @@ def main():
     out_file1 = config_obj["pathinfo"]["downloads"] + "/uckb/%s_glycosylation_types_%s.csv" % (species,time_stamp)
     out_file2 = config_obj["pathinfo"]["downloads"] + "/uckb/%s_glycosylation_types_updated.csv" % (species)
     FW1 = open(out_file1, "w")
+    FW2 = open(out_file2, "w")
 
     row = ["uckb_id", "glycosylation_type"]
     FW1.write("\"%s\"\n" % ("\",\"".join(row)))
