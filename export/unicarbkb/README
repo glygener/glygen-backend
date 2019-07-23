@@ -1,4 +1,5 @@
 Latest update by Matthew Campbell [UniCarbKB] [m.campbell2@griffith.edu.au]
 source link:- https://gitlab.com/matthew.campbell1980/Unicarb-Glygen/tree/master/data_files/unicarbkb/QC/build_triplestore/GlycoCoo_1.3.2/2.0.5/out 
 The files will be processed for next release [1.4]
-The folder contains 3 files specific to a species (human[taxid:9606],mouse[taxid:10090],rat[taxid:10116])
+The folder contains 3 files specific to a species (human[taxid:9606],mouse[taxid:10090],rat[taxid:10116]) out of which 
+human_18072019.csv is the latest one. 
