@@ -1,0 +1,148 @@
+Protein,Position,Id,Toucan,AminoAcid,TypeAminoAcid,Notes,Pmid
+O09164,121^^xsd:int,7843,G12398HZ,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7415,G99610EG,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7448,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7669,G33269XL,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7771,G47253OG,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7726,G58848QS,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7720,G28362DW,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7583,G48489PM,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7542,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7615,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7829,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7511,G25067TK,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7793,G75977KH,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7444,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7546,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7577,G58444TO,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7607,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7552,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7703,G81459MV,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7403,G46768QH,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7758,G24498DI,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7569,G81581UV,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7495,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+O09164,121^^xsd:int,7656,G62408IZ,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,21573946
+P04925,180^^xsd:int,7512,G76519VT,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7659,G52003QG,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7456,G39945EK,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7591,G24132CP,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7520,G32671AN,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7575,G99035PG,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7598,G45045RU,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7882,G26371XR,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7806,G91623TN,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7691,G35687VS,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7459,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7494,G82138AT,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7473,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7774,G94373HA,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7408,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7619,G57818FI,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7402,G15791TK,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7605,G90443NH,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7781,G07682PQ,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7856,G62837IG,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7778,G26014MK,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7526,G29895JE,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7678,G65219TP,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7826,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7614,G26896YH,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7755,G71071YT,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7858,G19099PA,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7680,G65365UP,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7641,G92129PT,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7757,G92129PT,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7693,G94163JU,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,180^^xsd:int,7724,G25180HQ,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7581,G65550TC,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7450,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7461,G25495RY,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7494,G82138AT,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7693,G94163JU,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7691,G35687VS,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7426,G22137OG,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7562,G05395FV,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7638,G40012WS,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7854,G43953LS,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7856,G62837IG,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7826,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7455,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7774,G94373HA,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7778,G26014MK,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7522,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7591,G24132CP,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7532,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7497,G43549OX,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7536,G33785ND,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7839,G63046OH,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7571,G29721UX,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7580,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7806,G91623TN,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7659,G52003QG,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7487,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7446,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+P04925,196^^xsd:int,7792,G74320MK,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,10200178
+Q61508,535^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+P55850,630^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+Q9Z0L8,162^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+P18242,261^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+P55849,546^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+O89023,221^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+P11438,252^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+Q91Z43,88^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+Q9Z1Q4,89^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+Q9Z0L8,100^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+Q9Z0L8,188^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+P17439,165^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+P06797,221^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+Q8VCI0,72^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+P16675,140^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+Q8C1N0,312^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+P16675,327^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+Q61508,463^^xsd:int,comp_HexNAc0Hex0dHex0NeuAc0NeuGc0Pent0S0P0KDN0HexA0,,http://rdf.unicarbkb.org/amino_acid_asn,Asn,,16170054
+P01868,174^^xsd:int,1099,G80858MF,http://rdf.unicarbkb.org/amino_acid_asn,Asn,GlycoSuiteDB  curation notes. Reported structure can be attached to the following: ASN-174,2108149
+P01868,174^^xsd:int,1099,G80858MF,http://rdf.unicarbkb.org/amino_acid_asn,Asn,ASN-174 ; ASN-174,2108149
+P01868,174^^xsd:int,1603,G78059CC,http://rdf.unicarbkb.org/amino_acid_asn,Asn,GlycoSuiteDB  curation notes. Reported structure can be attached to the following: ASN-174,2108149
+P01868,174^^xsd:int,1603,G78059CC,http://rdf.unicarbkb.org/amino_acid_asn,Asn,ASN-174 ; ASN-174,2108149
+P01868,174^^xsd:int,1493,G27919IH,http://rdf.unicarbkb.org/amino_acid_asn,Asn,GlycoSuiteDB  curation notes. Reported structure can be attached to the following: ASN-174,2108149
+P01868,174^^xsd:int,1493,G27919IH,http://rdf.unicarbkb.org/amino_acid_asn,Asn,ASN-174 ; ASN-174,2108149
+P01868,174^^xsd:int,1599,G58667NI,http://rdf.unicarbkb.org/amino_acid_asn,Asn,GlycoSuiteDB  curation notes. Reported structure can be attached to the following: ASN-174,2108149
+P01868,174^^xsd:int,1599,G58667NI,http://rdf.unicarbkb.org/amino_acid_asn,Asn,ASN-174 ; ASN-174,2108149
+P01868,174^^xsd:int,1493,G27919IH,http://rdf.unicarbkb.org/amino_acid_asn,Asn,GlycoSuiteDB  curation notes. Reported structure can be attached to the following: N-174,2108149
+P01868,174^^xsd:int,1099,G80858MF,http://rdf.unicarbkb.org/amino_acid_asn,Asn,GlycoSuiteDB  curation notes. Reported structure can be attached to the following: N-174,2108149
+P01868,174^^xsd:int,1599,G58667NI,http://rdf.unicarbkb.org/amino_acid_asn,Asn,GlycoSuiteDB  curation notes. Reported structure can be attached to the following: N-174,2108149
+P01868,174^^xsd:int,1603,G78059CC,http://rdf.unicarbkb.org/amino_acid_asn,Asn,GlycoSuiteDB  curation notes. Reported structure can be attached to the following: N-174,2108149
+Q09163,94^^xsd:int,656,G71142DF,http://rdf.unicarbkb.org/amino_acid_ser,Ser,GlycoSuiteDB  curation notes. Reported structure can be attached to the following: SER-94 AND SER-216 ; SER-94 AND SER-216,9118998
+Q09163,94^^xsd:int,656,G71142DF,http://rdf.unicarbkb.org/amino_acid_ser,Ser,SER-94 AND SER-216,9118998
+Q09163,224^^xsd:int,96,G01614ZM,http://rdf.unicarbkb.org/amino_acid_thr,Thr,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,258^^xsd:int,7,G65562ZE,http://rdf.unicarbkb.org/amino_acid_thr,Thr,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,94^^xsd:int,7,G65562ZE,http://rdf.unicarbkb.org/amino_acid_ser,Ser,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,258^^xsd:int,96,G01614ZM,http://rdf.unicarbkb.org/amino_acid_thr,Thr,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,94^^xsd:int,96,G01614ZM,http://rdf.unicarbkb.org/amino_acid_ser,Ser,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,267^^xsd:int,7,G65562ZE,http://rdf.unicarbkb.org/amino_acid_thr,Thr,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,100^^xsd:int,5605,G37626XQ,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,267^^xsd:int,96,G01614ZM,http://rdf.unicarbkb.org/amino_acid_thr,Thr,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,100^^xsd:int,5606,G03584KV,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,271^^xsd:int,7,G65562ZE,http://rdf.unicarbkb.org/amino_acid_thr,Thr,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,100^^xsd:int,5609,G10995NB,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,271^^xsd:int,96,G01614ZM,http://rdf.unicarbkb.org/amino_acid_thr,Thr,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,165^^xsd:int,5605,G37626XQ,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,165^^xsd:int,5606,G03584KV,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,165^^xsd:int,5609,G10995NB,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,174^^xsd:int,5605,G37626XQ,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,174^^xsd:int,5606,G03584KV,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,174^^xsd:int,5609,G10995NB,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,216^^xsd:int,7,G65562ZE,http://rdf.unicarbkb.org/amino_acid_ser,Ser,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,216^^xsd:int,96,G01614ZM,http://rdf.unicarbkb.org/amino_acid_ser,Ser,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q09163,224^^xsd:int,7,G65562ZE,http://rdf.unicarbkb.org/amino_acid_thr,Thr,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: S-94, N-100, N-165, N-174, S-216, T-224, T-258, T-267, T-271",9118998
+Q05769,130^^xsd:int,4822,G62768NK,http://rdf.unicarbkb.org/amino_acid_asn,Asn,GlycoSuiteDB  curation notes. Reported structure can be attached to the following: ASN-130 ; ASN-130,11258925
+Q05769,130^^xsd:int,4822,G62768NK,http://rdf.unicarbkb.org/amino_acid_asn,Asn,ASN-130,11258925
+Q05769,53^^xsd:int,1219,G49108TO,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: N-53, N-130, N-396, N-580",11258925
+Q05769,130^^xsd:int,1219,G49108TO,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: N-53, N-130, N-396, N-580",11258925
+Q05769,396^^xsd:int,1219,G49108TO,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: N-53, N-130, N-396, N-580",11258925
+Q05769,580^^xsd:int,1219,G49108TO,http://rdf.unicarbkb.org/amino_acid_asn,Asn,"GlycoSuiteDB  curation notes. Reported structure can be attached to the following: N-53, N-130, N-396, N-580",11258925
+O08537,61^^xsd:int,1219,G49108TO,http://rdf.unicarbkb.org/amino_acid_ser,Ser,GlycoSuiteDB  curation notes. Reported structure can be attached to the following: SER-61 ; SER-61,10995228
+O08537,61^^xsd:int,1219,G49108TO,http://rdf.unicarbkb.org/amino_acid_ser,Ser,SER-61,10995228
+P19785,575^^xsd:int,1219,G49108TO,http://rdf.unicarbkb.org/amino_acid_thr,Thr,GlycoSuiteDB  curation notes. Reported structure can be attached to the following: THR-575 ; THR-575,8999954
+P19785,575^^xsd:int,1219,G49108TO,http://rdf.unicarbkb.org/amino_acid_thr,Thr,THR-575,8999954
