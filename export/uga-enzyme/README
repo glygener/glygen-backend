@@ -1,1 +1,15 @@
-test
+Files provided by Will York [UGA] [will@ccrc.uga.edu]
+source link:- https://www.dropbox.com/sh/5ta6u620c5a3571/AAD3JvlEsvc342piUXRCwCyfa?dl=0
+
+
+Additional notes:
+The data to be incorporated into the GlyGen model is in the file modelData.zip, which contains the following files:
+
+- N-nodes-full-2019-05-31.csv contains the current list of canonical residue descriptions for N-glycans. 
+The description includes two key items: "residue_ID" and "parent_ID", which specify the canonical tree structure.
+The root of the tree ("N-glycan_core_b-D-GlcpNAc_A,NA,GlcNAc,b,D,p,no_id,0,square,#0090BC,GlcNAc")is the ultimate ancestor node. A fully-defined glycan can be represented as a collection of interconnected nodes from this tree (including the root node). 
+For now, this tree just contains descriptions of the canonical residues, but in the future, each canonical residue in this list should also have a comment, because some of the canonical residues are not biological - e.g., some are residues in chemically synthesized glycans or in glycans that do not exist in vivo.  A few other residues are not found in mice or men, and these should also be annotated as such. The end user should be aware of this information, which we will add later added as a "comment" column - but we can deal with that later.
+
+- mapped-N-glycans.csv contains mapping of the residues in the fully defined N-glycans that Nathan provided in March.  As mentioned above, each N-glycan is a tree composed of interconnected canonical residues. That is, each N-glycan is mapped to a subtree of the canonical tree.
+
+- Assigned-canonical-residues-092118.xlsx contains information about the enzymes responsible for adding each canonical residue to growing N-glycans.  Each row corresponds to a particular enzyme, specified by several different names for each mouse (columns C-H) and human (columns I-N) enzyme.  The enzymes in a particular row are ORTHOLOGS (mouse/human) of each other, and these catalyze the addition of the same canonical residue (specified in columns A and B). Note that the "local_residue_ID" value corresponds to the "residue_ID" value in the mapped-N-glycans file.
